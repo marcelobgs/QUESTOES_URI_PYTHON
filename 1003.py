@@ -1,5 +1,5 @@
-A = float (input())
-B = float (input())
+A = int (input())
+B = int (input())
 
 SOMA = A + B
 
